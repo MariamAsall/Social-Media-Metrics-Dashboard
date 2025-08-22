@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a dynamic and comprehensive Social Media Metrics Dashboard built entirely within Microsoft Excel[1][2]. It's designed to track and analyze key performance indicators (KPIs) across multiple social platforms—Facebook, Instagram, LinkedIn, and X (Twitter)—providing a centralized view of marketing performance[4][3]. The dashboard visualizes weekly trends and aggregates key metrics to help marketing teams make informed, data-driven decisions[5].
+This repository contains a dynamic and comprehensive Social Media Metrics Dashboard built entirely within Microsoft Excel. It's designed to track and analyze key performance indicators (KPIs) across multiple social platforms—Facebook, Instagram, LinkedIn, and X (Twitter)—providing a centralized view of marketing performance. The dashboard visualizes weekly trends and aggregates key metrics to help marketing teams make informed, data-driven decisions.
 
 ---
 
